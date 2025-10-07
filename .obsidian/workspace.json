@@ -11,10 +11,14 @@
             "id": "85340a344eee0d24",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "hello world.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "hello world"
             }
           }
         ]
@@ -165,10 +169,10 @@
   },
   "active": "85340a344eee0d24",
   "lastOpenFiles": [
-    "Untitled.base",
-    "hello world.md",
     "Welcome.md",
-    "create a link.md",
-    "Untitled.canvas"
+    "Untitled.base",
+    "Untitled.canvas",
+    "hello world.md",
+    "create a link.md"
   ]
 }
